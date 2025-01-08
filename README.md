@@ -1,4 +1,5 @@
-**Museum Ark Website Bootstrap**  
+# Museum Ark Website Bootstrap
+
 Developed a responsive and user-friendly website for the **Ark Museum**, leveraging **Bootstrap** to create a seamless and secure user experience. Key features include:  
 
 - **Ticket Purchase System**: Users can easily buy individual or bundled tickets with a streamlined process.  
